@@ -5,4 +5,4 @@ rozszerzenia dla msc2023, które można z z-(load)-ować albo zdrag&dropować.
 * sin.scm         - rysuje sinusoidę ze zwierciadeł.
 * deltoid.scm     - dodaje deltoid (customowy obiekt)
 * portal.scm      - dodaje portal (customowy obiekt)
-* crossy-road.scm - jak nazwa wskazuje - gra :P
+* crossy-road.scm - dodaje grę o skakaniu po sztynkstach (menu → zaawansowane → crossy road); sterowanie: wsad lub hjkl
