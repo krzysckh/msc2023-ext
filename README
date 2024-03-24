@@ -1,7 +1,8 @@
 rozszerzenia dla msc2023, które można z z-(load)-ować albo zdrag&dropować.
 
-* theme.scm   - zmiana kolorytu (menu → zaawansowane → zmień koloryt)
-* repl.scm    - REPL (menu → zaawansowane → uruchom REPL)
-* sin.scm     - rysuje sinusoidę ze zwierciadeł.
-* deltoid.scm - dodaje deltoid (customowy obiekt)
-* portal.scm  - dodaje portal (customowy obiekt)
+* theme.scm       - zmiana kolorytu (menu → zaawansowane → zmień koloryt)
+* repl.scm        - REPL (menu → zaawansowane → uruchom REPL)
+* sin.scm         - rysuje sinusoidę ze zwierciadeł.
+* deltoid.scm     - dodaje deltoid (customowy obiekt)
+* portal.scm      - dodaje portal (customowy obiekt)
+* crossy-road.scm - jak nazwa wskazuje - gra :P
